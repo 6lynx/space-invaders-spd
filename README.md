@@ -1,5 +1,5 @@
 # space-invaders-spd
-systematic program design part 1 final project.
+UBCx SPD1x systematic program design part 1 final project.
 
 demonstrates:
 - systematic design
