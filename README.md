@@ -7,5 +7,6 @@ demonstrates:
 - familiarity with functional programming concepts and recursion
 
 
-![demo](https://github.com/user-attachments/assets/204ca384-14f0-489a-aeb9-d41559331450)
 
+
+![demo](https://github.com/user-attachments/assets/0bad138a-95ee-4e68-a0e7-5d5c19c67113)
